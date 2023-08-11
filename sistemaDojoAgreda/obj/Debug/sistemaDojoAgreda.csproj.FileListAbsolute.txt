@@ -1,0 +1,11 @@
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\bin\Debug\sistemaDojoAgreda.exe.config
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\bin\Debug\sistemaDojoAgreda.exe
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\bin\Debug\sistemaDojoAgreda.pdb
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.frmLogin.resources
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.frmCobroMensual.resources
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.Properties.Resources.resources
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.exe
+C:\Users\stefa\source\repos\sistemaDojoAgreda\sistemaDojoAgreda\obj\Debug\sistemaDojoAgreda.pdb
